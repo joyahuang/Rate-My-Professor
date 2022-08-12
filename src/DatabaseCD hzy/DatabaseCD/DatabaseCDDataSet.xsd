@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DatabaseCDDataSet" targetNamespace="http://tempuri.org/DatabaseCDDataSet.xsd" xmlns:mstns="http://tempuri.org/DatabaseCDDataSet.xsd" xmlns="http://tempuri.org/DatabaseCDDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DatabaseCDConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DatabaseCDConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DatabaseCD.Properties.Settings.GlobalReference.Default.DatabaseCDConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="reviewTestTableAdapter" GeneratorDataComponentClassName="reviewTestTableAdapter" Name="reviewTest" UserDataComponentName="reviewTestTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DatabaseCDConnectionString (Settings)" DbObjectName="DatabaseCD.dbo.reviewTest" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT rdate, rlike, rtext, unkname, upic, myuID, cID FROM dbo.reviewTest</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="rdate" DataSetColumn="rdate" />
+              <Mapping SourceColumn="rlike" DataSetColumn="rlike" />
+              <Mapping SourceColumn="rtext" DataSetColumn="rtext" />
+              <Mapping SourceColumn="unkname" DataSetColumn="unkname" />
+              <Mapping SourceColumn="upic" DataSetColumn="upic" />
+              <Mapping SourceColumn="myuID" DataSetColumn="myuID" />
+              <Mapping SourceColumn="cID" DataSetColumn="cID" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DatabaseCDDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="DatabaseCDDataSet" msprop:Generator_UserDSName="DatabaseCDDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="reviewTest" msprop:Generator_TableClassName="reviewTestDataTable" msprop:Generator_TableVarName="tablereviewTest" msprop:Generator_TablePropName="reviewTest" msprop:Generator_RowDeletingName="reviewTestRowDeleting" msprop:Generator_RowChangingName="reviewTestRowChanging" msprop:Generator_RowEvHandlerName="reviewTestRowChangeEventHandler" msprop:Generator_RowDeletedName="reviewTestRowDeleted" msprop:Generator_UserTableName="reviewTest" msprop:Generator_RowChangedName="reviewTestRowChanged" msprop:Generator_RowEvArgName="reviewTestRowChangeEvent" msprop:Generator_RowClassName="reviewTestRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="rdate" msprop:Generator_ColumnVarNameInTable="columnrdate" msprop:Generator_ColumnPropNameInRow="rdate" msprop:Generator_ColumnPropNameInTable="rdateColumn" msprop:Generator_UserColumnName="rdate" type="xs:dateTime" />
+              <xs:element name="rlike" msprop:Generator_ColumnVarNameInTable="columnrlike" msprop:Generator_ColumnPropNameInRow="rlike" msprop:Generator_ColumnPropNameInTable="rlikeColumn" msprop:Generator_UserColumnName="rlike" type="xs:int" minOccurs="0" />
+              <xs:element name="rtext" msprop:Generator_ColumnVarNameInTable="columnrtext" msprop:Generator_ColumnPropNameInRow="rtext" msprop:Generator_ColumnPropNameInTable="rtextColumn" msprop:Generator_UserColumnName="rtext" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="unkname" msprop:Generator_ColumnVarNameInTable="columnunkname" msprop:Generator_ColumnPropNameInRow="unkname" msprop:Generator_ColumnPropNameInTable="unknameColumn" msprop:Generator_UserColumnName="unkname">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="upic" msprop:Generator_ColumnVarNameInTable="columnupic" msprop:Generator_ColumnPropNameInRow="upic" msprop:Generator_ColumnPropNameInTable="upicColumn" msprop:Generator_UserColumnName="upic" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="myuID" msprop:Generator_ColumnVarNameInTable="columnmyuID" msprop:Generator_ColumnPropNameInRow="myuID" msprop:Generator_ColumnPropNameInTable="myuIDColumn" msprop:Generator_UserColumnName="myuID" type="xs:int" />
+              <xs:element name="cID" msprop:Generator_ColumnVarNameInTable="columncID" msprop:Generator_ColumnPropNameInRow="cID" msprop:Generator_ColumnPropNameInTable="cIDColumn" msprop:Generator_UserColumnName="cID" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:reviewTest" />
+      <xs:field xpath="mstns:rdate" />
+      <xs:field xpath="mstns:myuID" />
+      <xs:field xpath="mstns:cID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

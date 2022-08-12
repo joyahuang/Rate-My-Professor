@@ -1,0 +1,10 @@
+----------0607--------
+
+合并需要注意的：
+改CourseInfo页面前几行的SqlConnection
+Review Area的gridControl控件需要先手动绑上ReviewTest视图（因为得先拿它排版，这样一来它就被写进Designer.cs里拿不掉了，没办法）
+VitalThings.cs里的uid暂时用的是假的，program.cs里courseInfo(cID)也暂时用的是假的。
+
+我还没做完的：
+teacherInfo的表懒得做，直接复制主页面的课程列表，然后我改个datasource就好
+评论区跨窗体的刷新问题，暂时用笨方法苟了。

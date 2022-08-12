@@ -1,0 +1,297 @@
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\bin\Debug\DatabaseCD.exe.config
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\bin\Debug\DatabaseCD.exe
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\bin\Debug\DatabaseCD.pdb
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.csprojResolveAssemblyReference.cache
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.Properties.Resources.resources
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.csproj.GenerateResource.Cache
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.exe
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.pdb
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.courseInfo.resources
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.myMain.resources
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.favoriteCourses.resources
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.furtherSearch.resources
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.login.resources
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.registration.resources
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.alterEmail.resources
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.alterPassword.resources
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.alterInfo.resources
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.alterPhoto.resources
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.coursesEvaluation.resources
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.scoreDist.resources
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.coursesFurtherSearched.resources
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.teacherInfo.resources
+C:\Users\Zero Yi\Documents\Visual Studio 2015\Projects\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.coursesComment.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\bin\Debug\DatabaseCD.exe.config
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.exe
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.pdb
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\bin\Debug\DatabaseCD.exe
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\bin\Debug\DatabaseCD.pdb
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.csprojResolveAssemblyReference.cache
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.alterInfo.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.alterPassword.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.alterPhoto.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.courseInfo.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.coursesComment.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.coursesEvaluation.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.coursesFurtherSearched.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.favoriteCourses.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.furtherSearch.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.login.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.Properties.Resources.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.registration.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.scoreDist.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.teacherInfo.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.csproj.GenerateResource.Cache
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\bin\Debug\DatabaseCD.exe.config
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\bin\Debug\DatabaseCD.exe
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\bin\Debug\DatabaseCD.pdb
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.alterEmail.resources
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.alterInfo.resources
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.alterPassword.resources
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.alterPhoto.resources
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.courseInfo.resources
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.coursesComment.resources
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.coursesEvaluation.resources
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.coursesFurtherSearched.resources
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.myMain.resources
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.favoriteCourses.resources
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.furtherSearch.resources
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.login.resources
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.Properties.Resources.resources
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.registration.resources
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.scoreDist.resources
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.teacherInfo.resources
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.csproj.GenerateResource.Cache
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.exe.licenses
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.exe
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.pdb
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.csprojResolveAssemblyReference.cache
+F:\2020-数据库\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.comment.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.courseSyllabus.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.personalInfo.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.exe.licenses
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\bin\Debug\DatabaseCD.exe.config
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.exe
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.courseInfo.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.coursesComment.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.coursesEvaluation.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.courseSyllabus.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.Properties.Resources.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.teacherInfo.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.csproj.GenerateResource.Cache
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.exe.licenses
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\bin\Debug\DatabaseCD.exe
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\bin\Debug\DatabaseCD.pdb
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.pdb
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.csprojResolveAssemblyReference.cache
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.diagram.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.NoReview.resources
+F:\2020-数据库\评教\DatabaseCD\DatabaseCD\obj\Debug\DatabaseCD.ReviewArea.resources
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DatabaseCD.exe.config
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DatabaseCD.exe
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DatabaseCD.pdb
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.diagram.resources
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.courseInfo.resources
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.coursesComment.resources
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.coursesEvaluation.resources
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.courseSyllabus.resources
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.NoReview.resources
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.Properties.Resources.resources
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.ReviewArea.resources
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.teacherInfo.resources
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.csproj.GenerateResource.cache
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.exe.licenses
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.csproj.CoreCompileInputs.cache
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.csproj.CopyComplete
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.exe
+C:\Users\ShXY\Desktop\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.pdb
+F:\2020-数据库\评教\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DatabaseCD.exe.config
+F:\2020-数据库\评教\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.csprojResolveAssemblyReference.cache
+F:\2020-数据库\评教\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.diagram.resources
+F:\2020-数据库\评教\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.courseInfo.resources
+F:\2020-数据库\评教\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.coursesComment.resources
+F:\2020-数据库\评教\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.coursesEvaluation.resources
+F:\2020-数据库\评教\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.courseSyllabus.resources
+F:\2020-数据库\评教\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.NoReview.resources
+F:\2020-数据库\评教\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.Properties.Resources.resources
+F:\2020-数据库\评教\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.ReviewArea.resources
+F:\2020-数据库\评教\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.teacherInfo.resources
+F:\2020-数据库\评教\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.csproj.GenerateResource.Cache
+F:\2020-数据库\评教\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.exe.licenses
+F:\2020-数据库\评教\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DatabaseCD.exe
+F:\2020-数据库\评教\数据库项目\DatabaseCD hzy\DatabaseCD\bin\Debug\DatabaseCD.pdb
+F:\2020-数据库\评教\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.exe
+F:\2020-数据库\评教\数据库项目\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.pdb
+F:\2020-数据库\评教\DatabaseCD hzy\DatabaseCD\bin\Debug\DatabaseCD.exe.config
+F:\2020-数据库\评教\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.exe
+F:\2020-数据库\评教\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.pdb
+F:\2020-数据库\评教\项目文件\DatabaseCD hzy\DatabaseCD\bin\Debug\DatabaseCD.exe.config
+F:\2020-数据库\评教\项目文件\DatabaseCD hzy\DatabaseCD\bin\Debug\DatabaseCD.exe
+F:\2020-数据库\评教\项目文件\DatabaseCD hzy\DatabaseCD\bin\Debug\DatabaseCD.pdb
+F:\2020-数据库\评教\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.csprojResolveAssemblyReference.cache
+F:\2020-数据库\评教\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.diagram.resources
+F:\2020-数据库\评教\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.courseInfo.resources
+F:\2020-数据库\评教\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.coursesComment.resources
+F:\2020-数据库\评教\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.coursesEvaluation.resources
+F:\2020-数据库\评教\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.courseSyllabus.resources
+F:\2020-数据库\评教\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.NoReview.resources
+F:\2020-数据库\评教\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.Properties.Resources.resources
+F:\2020-数据库\评教\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.ReviewArea.resources
+F:\2020-数据库\评教\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.teacherInfo.resources
+F:\2020-数据库\评教\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.csproj.GenerateResource.Cache
+F:\2020-数据库\评教\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.exe.licenses
+F:\2020-数据库\评教\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.exe
+F:\2020-数据库\评教\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.pdb
+F:\2020-数据库\评教\项目文件 - Copy\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.csprojResolveAssemblyReference.cache
+F:\2020-数据库\评教\项目文件 - Copy\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.diagram.resources
+F:\2020-数据库\评教\项目文件 - Copy\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.courseInfo.resources
+F:\2020-数据库\评教\项目文件 - Copy\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.coursesComment.resources
+F:\2020-数据库\评教\项目文件 - Copy\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.coursesEvaluation.resources
+F:\2020-数据库\评教\项目文件 - Copy\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.courseSyllabus.resources
+F:\2020-数据库\评教\项目文件 - Copy\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.NoReview.resources
+F:\2020-数据库\评教\项目文件 - Copy\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.Properties.Resources.resources
+F:\2020-数据库\评教\项目文件 - Copy\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.ReviewArea.resources
+F:\2020-数据库\评教\项目文件 - Copy\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.teacherInfo.resources
+F:\2020-数据库\评教\项目文件 - Copy\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.csproj.GenerateResource.Cache
+F:\2020-数据库\评教\项目文件 - Copy\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.exe.licenses
+F:\2020-数据库\评教\项目文件 - Copy\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.exe
+F:\2020-数据库\评教\项目文件 - Copy\DatabaseCD hzy\DatabaseCD\bin\Debug\DatabaseCD.exe.config
+F:\2020-数据库\评教\项目文件 - Copy\DatabaseCD hzy\DatabaseCD\bin\Debug\DatabaseCD.exe
+F:\2020-数据库\评教\项目文件 - Copy\DatabaseCD hzy\DatabaseCD\bin\Debug\DatabaseCD.pdb
+F:\2020-数据库\评教\项目文件 - Copy\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.pdb
+F:\2020-数据库\评教\评教综合系统\项目文件\DatabaseCD hzy\DatabaseCD\bin\Debug\DatabaseCD.exe.config
+F:\2020-数据库\评教\评教综合系统\项目文件\DatabaseCD hzy\DatabaseCD\bin\Debug\DatabaseCD.exe
+F:\2020-数据库\评教\评教综合系统\项目文件\DatabaseCD hzy\DatabaseCD\bin\Debug\DatabaseCD.pdb
+F:\2020-数据库\评教\评教综合系统\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.csprojResolveAssemblyReference.cache
+F:\2020-数据库\评教\评教综合系统\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.diagram.resources
+F:\2020-数据库\评教\评教综合系统\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.courseInfo.resources
+F:\2020-数据库\评教\评教综合系统\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.coursesComment.resources
+F:\2020-数据库\评教\评教综合系统\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.coursesEvaluation.resources
+F:\2020-数据库\评教\评教综合系统\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.courseSyllabus.resources
+F:\2020-数据库\评教\评教综合系统\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.NoReview.resources
+F:\2020-数据库\评教\评教综合系统\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.Properties.Resources.resources
+F:\2020-数据库\评教\评教综合系统\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.ReviewArea.resources
+F:\2020-数据库\评教\评教综合系统\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.teacherInfo.resources
+F:\2020-数据库\评教\评教综合系统\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.csproj.GenerateResource.Cache
+F:\2020-数据库\评教\评教综合系统\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.exe.licenses
+F:\2020-数据库\评教\评教综合系统\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.exe
+F:\2020-数据库\评教\评教综合系统\项目文件\DatabaseCD hzy\DatabaseCD\obj\Debug\DatabaseCD.pdb
